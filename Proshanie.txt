@@ -1,1 +1,0 @@
-Print(u nas net nichego obshego)
