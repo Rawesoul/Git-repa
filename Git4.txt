@@ -1,3 +1,4 @@
 Print(hello world)
 Print(Good bye, Covid)
 Print("her name dusha")
+Print("Privetulechki")
